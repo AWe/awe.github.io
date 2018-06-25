@@ -6,7 +6,8 @@
 name: Datatales
 
 # Short bio or description (displayed in the header)
-description: Test #Lecturer, Information and Data Scientist, passionate Dad, and Sense Maker 
+#Lecturer, Information and Data Scientist, passionate Dad, and Sense Maker
+description: Test 
 
 c URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/624788?s=460&v=4
@@ -15,7 +16,7 @@ avatar: https://avatars0.githubusercontent.com/u/624788?s=460&v=4
 # Flags below are optional
 #
 
-# Includes an icon in the footer for each username you enter
+# Includes an icon in the footer for each username you enter #datatales
 footer-links:
   dribbble:
   email:
@@ -23,7 +24,7 @@ footer-links:
   flickr:
   github: AWe
   instagram:
-  linkedin: Test #datatales
+  linkedin: Test 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
